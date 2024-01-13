@@ -1,0 +1,1 @@
+This is a very basic project to show the playwright lib and what that lib can make.
